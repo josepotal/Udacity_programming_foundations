@@ -1,0 +1,15 @@
+
+1.- go to https://www.python.org/downloads/
+
+2.- dowload python 2.7.9
+
+3.- During the installation allow
+	3.1.- Enable pip
+	3.2.- Enable PATH
+
+
+
+## to install an external library in python [WINDOWS]
+4.- Go to Git bash
+
+5.- pip install twilio
