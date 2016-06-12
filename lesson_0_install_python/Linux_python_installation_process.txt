@@ -1,0 +1,29 @@
+[LINUX]
+
+1.- INSTALL IPYTHON AND OPEN IT
+
+Option A: 
+ - open ubuntu software and dowload ipython
+
+OPtion B:[using the terminal]
+	- pip install ipython
+	- if pip is not installed --> "sudo apt install python-pip"
+	- pip install iptyhon  /or/ pip install jupyter
+	- sudo apt install ipython
+
+2.- RUN IPYTHON NOTEBOOK:
+	- $ ipython notebook  /or/ jupyter notebook
+
+
+3.- OPEN PYTHON AND IDLE
+#https://www.pluralsight.com/blog/software-development/introduction-to-python-programming-in-ubuntu-linux
+	- $ python       (to open python shell in the terminal)
+	- $ idle         (to open python shell in the IDLE) if not installed 
+		$sudo apt get install idle
+		File > New Window
+
+
+4.- INSTALL PANDAS AND NUMPY
+	- $pip install pandas
+	- $pip install numpy
+
